@@ -16,3 +16,6 @@ For Tutorial: https://www.youtube.com/channel/UCJZ0qXbH5TFfiKFFmUm-SjA
 KiSki Nuker is full Eductinal Purposes only! Use at your own Risk!
 KiSki isnt responsable for any Damages! If your Server got nuked by it its the fault of the Person who run the Script! Not KiSki himself!
 How to not get Nuked: Add an AntiNuke Bot or dont give so many People Permission to create Bots! (https://www.youtube.com/watch?v=q1-B3_tQW7M)
+
+# Old Project
+# Maybe a rework, but probally not.
